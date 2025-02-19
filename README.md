@@ -55,3 +55,5 @@ Final Presentation to Stakeholders:
 The Lookbook was presented to T&P officers, department heads, and other stakeholders to showcase placement achievements and trends.
 Business Impact & Future Use.
 This project showcases my ability to collect, clean, analyze, and present data in an industry-relevant format, bridging the gap between data analytics and effective storytelling.
+NOTE
+In this GitHub repository, I have included the Excel dataset that I worked on. However, to ensure data privacy, I have anonymized student names and IDs. The same changes are reflected in all visualizations and charts within the project
