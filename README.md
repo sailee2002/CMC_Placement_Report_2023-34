@@ -1,6 +1,7 @@
 # CMC_Placement_Report_2023-34
-Project Overview
-This project presents an interactive Placement Analytics Lookbook developed using Excel, Power Query, Power BI, Adobe Illustrator(using datylon plugin), and Adobe InDesign to visualize and document placement trends for the Career Management Committee (CMC) at International Institute of Information Technology Pune. The goal was to create a structured and visually engaging report that provides insights into student placements, recruiter trends, and department-wise hiring statistics, helping future committee heads efficiently update and maintain placement records.
+Project Overview-
+
+This project presents an interactive Placement Analytics Lookbook developed using Excel, Power Query, Adobe Illustrator(using datylon plugin), and Adobe InDesign to visualize and document placement trends for the Career Management Committee (CMC) at International Institute of Information Technology Pune. The goal was to create a structured and visually engaging report that provides insights into student placements, recruiter trends, and department-wise hiring statistics, helping future committee heads efficiently update and maintain placement records.
 
 Data Collection & Processing
 Data Sources:
